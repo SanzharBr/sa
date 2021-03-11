@@ -1,0 +1,12 @@
+{
+	"posts":[
+		{"id":1, "tittle":"718","price":"20000000tg"},
+		{"id":2, "tittle":"911","price":"20000000tg"},
+		{"id":3, "tittle":"Taycan","price":"20000000tg"},
+		{"id":4, "tittle":"Panamera","price":"20000000tg"},
+		{"id":5, "tittle":"Macan","price":"20000000tg"},
+		{"id":6, "tittle":"Cayenne","price":"20000000tg"}
+
+
+	]
+}
